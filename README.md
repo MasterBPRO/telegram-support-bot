@@ -8,7 +8,7 @@ Install requirement library
 ```
 pip3 install -r requirements.txt
 ```
-Edit variables
+Edit variables in main.py file
 ```
 admin_chat = -123456789  # chat_id in your admin chat (you can use @my_id_bot for get chat_id)
 bot = telebot.TeleBot('123456789:AAFYqsQoAo01LcIH7Kn-oUEm474_Zdkgy8')   # Bot toker given by @BotFather
